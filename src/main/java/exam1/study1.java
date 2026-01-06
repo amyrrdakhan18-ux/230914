@@ -1,4 +1,4 @@
-package exam1;
+package exam1
 
 
 import java.util.ArrayList;
